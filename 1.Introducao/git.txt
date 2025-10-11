@@ -1,0 +1,29 @@
+Comandos do Git:
+git clone URL (nome-da-pasta-opcional)
+git commit -m"mensagem"
+git pull (git fetch + git merge)
+git push
+
+git remote add origin URL
+git branch -M main (ou master)
+git push -u origin main (ou master)
+
+git status
+git add
+(OU)
+git add .
+git stash
+
+(O Git ignora diretórios vazios)
+mkdir test
+touch test/.gitkeep
+(OU)
+touch test/.gitignore
+
+Links úteis:
+Documentação markdown:
+https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+site markdown:
+readme.so
+
