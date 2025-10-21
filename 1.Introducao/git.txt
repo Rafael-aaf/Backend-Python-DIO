@@ -1,4 +1,9 @@
 Comandos do Git:
+
+git add .
+git commit -m ""
+git push
+
 git clone URL (nome-da-pasta-opcional)
 git commit -m"mensagem"
 git pull (git fetch + git merge)
